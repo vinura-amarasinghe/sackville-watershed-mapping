@@ -78,7 +78,11 @@ Then:
 
 ## Key findings
 
-*To be added once analysis is complete.*
+- The Sackville River watershed covers approximately 150 km² north of Bedford Basin, HRM
+- Forest cover dominates the upper watershed (Beaver Bank / Upper Sackville headwaters)
+- **36% of the 100m riparian buffer is unforested**, indicating significant urban pressure on the stream network
+- Unforested riparian zones are concentrated in the lower watershed — the Bedford / Lower Sackville corridor — reflecting the historical urbanization gradient from rural headwaters to the suburban fringe at Bedford Basin
+- Analysis used a 100m buffer around the stream network intersected with NS Topographic Database land cover (forest polygons), with the unforested remainder representing potential pressure zones
 
 ## License
 
